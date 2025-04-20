@@ -1,1 +1,1 @@
-# delivery-time
+In this machine learning project, I analyzed a dataset of 46,000 historical orders to predict delivery times. Through meticulous data cleaning, feature engineering, and hyperparameter tuning, I developed and evaluated two regression models: Decision Tree and Random Forest Regressor. The Random Forest Regressor emerged as the superior model, achieving an Explained Variance Score (EVS) of 91.7%, demonstrating its effectiveness in capturing the underlying patterns in the data.
